@@ -1,0 +1,12 @@
+[
+  {
+    "from": "alice@startupx.com",
+    "subject": "Investor Update - March 2025",
+    "body": "Hi team, we’ve closed our Series A, hired key execs, and launched a beta. Burn rate is now 150K/month. Attached is our update."
+  },
+  {
+    "from": "bob@familyoffice.com",
+    "subject": "Meeting Notes",
+    "body": "Following up on our discussion re: co-investment in climate fund. Let’s sync next week to finalize."
+  }
+]
